@@ -83,7 +83,7 @@ p{
     top: 0;
     z-index: -1;
     height: 100%;
-    background: rgba(255, 171, 76, 0.805) ;
+    background: rgba(232, 123, 0, 0.805) ;
     width: 1px;
     -webkit-animation: left_Right 18s infinite;
     animation: left_Right 18s infinite;
